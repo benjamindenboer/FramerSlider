@@ -28,7 +28,29 @@ The `Slider.wrap` method takes three parameters:
 - `fill` — The fill layer of the slider.
 - `knob` – The knob layer of the slider.
 
-All of these can be styled completely in the design. The method wraps a component around these 3 layers to handle all of the sliding functionality for you.
+All of these can be styled completely in the design. The method wraps a component around these 3 layers to handle all of the sliding functionality for you. 
+
+```
+# Wrap slider logic
+Slider.wrap(background, fill, knob)
+```
+
+To customize the Slider, you can store it in a variable.
+
+```
+# Wrap slider logic
+slider = Slider.wrap(background, fill, knob)
+```
+
+This allows you to customize its properties, like the `min`, `max` and `value`.
+
+```
+# Set range, default value
+slider.props = 
+	min: 0
+	max: 100
+	value: 50
+```
 
 ---
 
