@@ -55,7 +55,7 @@ slider.props =
 And finally—to use its value, you can use the `onValueChange` method.
 
 ```
-# Update value, print output
+# Update value & print output
 slider.onValueChange ->
 	print slider.value
 ```
