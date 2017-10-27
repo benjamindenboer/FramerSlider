@@ -59,6 +59,12 @@ And finally—to output its values, you can use the `onValueChange` method.
 slider.onValueChange ->
 	print slider.value
 ```
+---
+
+## Resources
+- **[SliderComponent Properties](https://framer.com/docs/#slider.slidercomponent)** — Documentation.
+- **[SliderComponent Events](https://framer.com/docs/#events.value)** — Documentation.
+- **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — Guide.
 
 ---
 
