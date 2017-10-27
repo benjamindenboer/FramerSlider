@@ -64,7 +64,7 @@ slider.onValueChange ->
 ## Resources
 - **[SliderComponent Properties](https://framer.com/docs/#slider.slidercomponent)** — Documentation.
 - **[SliderComponent Events](https://framer.com/docs/#events.value)** — Documentation.
-- **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — Guide.
+- **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — Get Started Guide.
 
 ---
 
