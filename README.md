@@ -63,9 +63,10 @@ slider.onValueChange ->
 ---
 
 ## Examples
-See the [Framer Audio](https://github.com/benjamindenboer/FramerAudio) module for more examples.
 
-- **[Slider Wrapping](https://framer.cloud/BlHxd).** From 3 layers in Design to an interactive slider in Code.
+- **[Slider Wrapping](https://framer.cloud/aWnxD).** Simple example with realtime value.
+- **[Value Modulating](https://framer.cloud/WJpNi).** Adjust the background color of a layer. 
+- See the [Framer Audio](https://github.com/benjamindenboer/FramerAudio) module for more.
 
 ---
 
