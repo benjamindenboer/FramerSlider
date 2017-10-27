@@ -2,7 +2,7 @@
   <img src="https://d.pr/i/TZ2kXs+" width="160" alt="icon"><br>
   Framer Slider<br>
   <br>
-  <img src="https://d.pr/i/foZzIB+" width="810" alt="banner">
+  <img src="https://d.pr/i/foZzIB+" width="803" alt="banner">
 </h1>
 <br>
 <p align="center">  
