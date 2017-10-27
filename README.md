@@ -65,7 +65,7 @@ slider.onValueChange ->
 - **[SliderComponent Properties](https://framer.com/docs/#slider.slidercomponent)** — Discover all properties.
 - **[SliderComponent Events](https://framer.com/docs/#events.value)** — Discover all events.
 - **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — See the official beginners guide.
-- **[Utils.Modulate Guide](https://framer.com/docs/#utils.modulate).** — Learn how to map values.
+- **[Utils.Modulate Guide](https://framer.com/docs/#utils.modulate)** — Learn how to map values.
 
 ---
 
