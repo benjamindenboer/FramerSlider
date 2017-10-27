@@ -22,7 +22,6 @@ Then, to include the module, `require` the `Slider` class:
 {Slider} = require "slider"
 ```
 
-
 The `Slider.wrap` method takes three parameters:
 - `background` — The background layer of the slider.
 - `fill` — The fill layer of the slider.
@@ -66,7 +65,7 @@ slider.onValueChange ->
 
 - **[Slider Wrapping](https://framer.cloud/aWnxD).** Simple example with realtime value.
 - **[Value Modulating](https://framer.cloud/WJpNi).** Adjust the background color of a layer. 
-- See the [Framer Audio](https://github.com/benjamindenboer/FramerAudio) module for more.
+- See the **[Framer Audio](https://github.com/benjamindenboer/FramerAudio)** module for more.
 
 ---
 
