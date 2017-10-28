@@ -61,19 +61,19 @@ slider.onValueChange ->
 ```
 ---
 
-## Resources
-- **[SliderComponent Properties](https://framer.com/docs/#slider.slidercomponent)** — Discover all properties.
-- **[SliderComponent Events](https://framer.com/docs/#events.value)** — Discover all events.
-- **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — See the official beginners guide.
-- **[Utils.Modulate Docs](https://framer.com/docs/#utils.modulate)** — Learn how to convert value ranges.
-
----
-
 ## Examples
 
 - **[Slider Wrapping](https://framer.cloud/aWnxD).** Simple example with realtime value.
 - **[Value Modulating](https://framer.cloud/WJpNi).** Adjust the background color of a layer. 
 - See the **[Framer Audio](https://github.com/benjamindenboer/FramerAudio)** module for more.
+
+---
+
+## Resources
+- **[SliderComponent Properties](https://framer.com/docs/#slider.slidercomponent)** — Discover all properties.
+- **[SliderComponent Events](https://framer.com/docs/#events.value)** — Discover all events.
+- **[SliderComponent Guide](https://framer.com/getstarted/guides/code/#slider)** — See the official beginners guide.
+- **[Utils.Modulate Docs](https://framer.com/docs/#utils.modulate)** — Learn how to convert value ranges.
 
 ---
 
