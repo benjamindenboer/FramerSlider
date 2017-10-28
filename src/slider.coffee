@@ -1,7 +1,7 @@
 # Framer Slider Module
 # By Benjamin den Boer
-# Follow me at @benjaminnathan
-# Follow Framer at @framer
+# Follow me @benjaminnathan
+# Follow Framer @framer
 
 Events.SliderValueChange  = "sliderValueChange"
 
