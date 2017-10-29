@@ -64,7 +64,8 @@ slider.onValueChange ->
 ## Examples
 
 - **[Slider Wrapping](https://framer.cloud/aWnxD).** Simple example with realtime value.
-- **[Value Modulating](https://framer.cloud/WJpNi).** Adjust the background color of a layer. 
+- **[Value Modulating](https://framer.cloud/WJpNi).** Adjust the background color of a layer.
+- **[Photo Filter](https://framer.cloud/ervdH).** Adjust saturation, contrast and grayscale filters.
 - See the **[Framer Audio](https://github.com/benjamindenboer/FramerAudio)** module for more.
 
 ---
